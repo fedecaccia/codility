@@ -16,10 +16,7 @@ For example, given array H containing N = 9 integers:
   H[6] = 7    H[7] = 4    H[8] = 8
 the function should return 7. The figure shows one possible arrangement of seven blocks.
 
-// Correctness 100%
-// Performance 100%
-// Time Complexity O(N)
-// Space Complexity O(N)
+
 
 Assume that:
 
@@ -30,6 +27,11 @@ Complexity:
 expected worst-case time complexity is O(N);
 expected worst-case space complexity is O(N), beyond input storage (not counting the storage required for input arguments).
 Elements of input arrays can be modified. */
+
+// Correctness 100%
+// Performance 100%
+// Time Complexity O(N)
+// Space Complexity O(N)
 
 // you can use includes, for example:
 // #include <algorithm>
